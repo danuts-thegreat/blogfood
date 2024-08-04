@@ -1,5 +1,5 @@
 ---
-title: First Post test bis!
+title: First Post
 date: 2023-12-08T21:10:00+07:00
 tags: ["helloworld","blog"]
 image : "/img/posts/recipe1.jpg"

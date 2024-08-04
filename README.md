@@ -10,12 +10,13 @@ For windows:
 - Install [VSCode](https://code.visualstudio.com/download) (for terminal and editing site)
 - Install [Git for Windows](https://git-scm.com/download/win)
 - Add Git to Windows Environment varialbe (Windows > Environment variables > User > Path > Modify > Add > `C:\Program Files\Git\bin`)
-- Download [Hugo v0.121.1 for Windows](https://github.com/gohugoio/hugo/releases/download/v0.121.1/hugo_0.121.1_windows-amd64.zip) 
+- Download [Hugo v0.131.0 for Windows](https://github.com/gohugoio/hugo/releases/download/v0.131.0/hugo_0.131.0_windows-amd64.zip) 
 - Extract zip and copy hugo.exe in `%USERPROFILE%\AppData\Local\Microsoft\WindowsApps` (paste this in Windows Explorer URL)
 - Open VSCode terminal (VScode > Terminal > New terminal)
 - Check Git and Hugo commands are working:
 ```sh
 hugo version
+# hugo v0.131.0
 git --version
 ```
 
@@ -24,7 +25,11 @@ Generate ssh key and add it to github repo: https://docs.github.com/en/authentic
 
 Then clone with:
 ```sh
-git clone git@github.com:DanutsTheGreat/BlogFood.git
+git clone git@github.com:danuts-thegreat/blogfood.git
+
+# add submodule themes
+git submodule add https://github.com/theNewDynamic/gohugo-theme-ananke.git themes/ananke
+git submodule add https://github.com/binokochumolvarghese/lightbi-hugo themes/lightbi-hugo
 ```
 Open VSCode and add site to it: `File > Add Folder to Workspace > BlogFood`
 
