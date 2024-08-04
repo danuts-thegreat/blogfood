@@ -75,6 +75,6 @@ git add .
 git commit -m "my second post"
 git push -u origin main
 ```
-- New content will appear online shortly
+- New content will appear online shortly (progress can be monitored at https://github.com/danuts-thegreat/blogfood/actions)
 
 
