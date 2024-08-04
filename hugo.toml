@@ -1,4 +1,4 @@
-baseURL = 'http://localhost:1313'
+baseURL = 'https://danuts-thegreat.github.io/blogfood/'
 languageCode = 'en-us'
 title = 'Danuts project'
 theme = 'lightbi-hugo'
@@ -58,7 +58,7 @@ Subtitle = 'Hugo is Absurdly Fast!'
 
 [Author]
   #name = "Danuts the great"
-  website = "https://blogfood.pages.dev"
+  website = "https://danuts-thegreat.github.io/blogfood/"
   email = "sample@gmail.com"
   facebook = "username"
   instagram = "username"
