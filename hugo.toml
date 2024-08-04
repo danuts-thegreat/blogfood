@@ -1,0 +1,105 @@
+baseURL = 'https://blogfood.pages.dev/'
+languageCode = 'en-us'
+title = 'Danuts project'
+theme = 'lightbi-hugo'
+
+DefaultContentLanguage = "en"
+metaDataFormat = "yaml"
+pygmentsStyle = "trac"
+#pygmentsUseClasses = true
+#pygmentsCodeFences = true
+pygmentsCodefencesGuessSyntax = true
+#pygmentsUseClassic = true
+#pygmentOptions = "linenos=inline"
+#disqusShortname = "XXX"
+#googleAnalytics = "XXX"
+enableRobotsTXT = true
+enableGitInfo = false
+Paginate = 6
+
+[Params]
+selfHosted = true
+mainSections = ["post","posts"]
+dateFormat = "02 Jan 2006"
+# dateFormat = "2023-01-02"
+comments = false
+readingTime = false
+wordCount = false
+useHLJS = true
+socialShare = true
+delayDisqus = true
+showRelatedPosts = true 
+summaryLength  = "9"
+gcse = false
+Lastmod = false
+rss = false 
+pagination = "10"
+hideAuthor = true
+authorInfo = "She was born to be free, let her run wild in her own way and you will never lose her."
+description="Your can add your website description here."
+
+AuthorName = 'Danuts'
+AuthorEmail = "coincoin@gmail.com"
+GitHubUser = 'spf13'
+ListOfFoo = ['foo1', 'foo2']
+SidebarRecentLimit = 5
+Subtitle = 'Hugo is Absurdly Fast!'
+
+[frontmatter]
+  date = ['date', 'publishdate', 'pubdate', 'published', 'lastmod', 'modified']
+  expiryDate = ['expirydate', 'unpublishdate']
+  lastmod = [':git', 'lastmod', 'modified', 'date', 'publishdate', 'pubdate', 'published']
+  publishDate = ['publishdate', 'pubdate', 'published', 'date']
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[Author]
+  #name = "Danuts the great"
+  website = "https://blogfood.pages.dev"
+  email = "sample@gmail.com"
+  facebook = "username"
+  instagram = "username"
+  youtube = "user/username" # or channel/channelname
+  twitter = "username"
+  threads = "username"
+  linkedin = "username"
+  github = "username"
+  #gitlab = "username"
+  #bitbucket = "username"
+  #reddit = "username"
+  #xing = "username"
+  #stackoverflow = "users/XXXXXXX/username"
+  #snapchat = "username"
+  #soundcloud = "username"
+  #spotify = "username"
+  #bandcamp = "username"
+  #itchio = "username"
+  #vk = "username"
+  #paypal = "username"
+  #telegram = "username"
+  #500px = "username"
+  #codepen = "username"
+  #mastodon = "url"
+  #kaggle = "username"
+  #weibo = "username"
+  #slack = "username"
+
+[menu]
+[[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+
+[[menu.main]]
+    name = "Tags"
+    url = "/tags/blog/"
+    weight = 2
+
+
+[[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 3
