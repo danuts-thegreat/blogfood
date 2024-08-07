@@ -1,8 +1,8 @@
 ---
-title: First Post updated!
+title: First Post !
 date: 2023-12-08T21:10:00+07:00
 tags: ["helloworld","blog"]
-image : "/img/posts/recipe1.jpg"
+image : "lasagna.jpg"
 Description  : "blah blah description"
 featured: true
 ---
@@ -42,10 +42,10 @@ Italicized text is the *cat's meow*.
 
 Here is some beautiful Lasagna!
 
-![lasagna](/img/posts/recipe1.jpg "A Lasagna!")
+![lasagna](images/lasagna.jpg "A Lasagna!")
 
 And here is the effeil tower:
-![effeil tower1](effeil.jpg)
+![effeil tower1](images/effeil.jpg)
 
 
 Again with a caption bundle:

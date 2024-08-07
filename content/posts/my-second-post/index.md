@@ -2,17 +2,15 @@
 title: Pear Sauce
 date: 2024-06-24T18:39:29+02:00
 tags: ["helloworld","blog"]
-image : "/img/posts/PearSauce.png"
+image : "PearSauce.png"
 Description  : "Low carb heaven"
 featured: true
 ---
 
 
 **Images**
-
-Here is some beautiful Lasagna!
-
-![lasagna](/img/posts/PearSauce.png "A Pear!")
+Here is some beautiful pear!
+![pear](PearSauce.png "A Pear!")
 
 ## Ingredients
 8-10 pears, peeled, cored, and cut into 1-inch pieces (type Bartlett)
