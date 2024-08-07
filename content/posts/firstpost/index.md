@@ -2,7 +2,7 @@
 title: First Post !
 date: 2023-12-08T21:10:00+07:00
 tags: ["helloworld","blog"]
-image : "lasagna.jpg"
+image : "images/lasagna.jpg"
 Description  : "blah blah description"
 featured: true
 ---
