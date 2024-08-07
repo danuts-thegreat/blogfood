@@ -59,6 +59,9 @@ More:
 git add . 
 git commit -m "my second post"
 git push -u origin main
+
+# to refresh GH personal access token:
+git remote set-url origin https://danuts-thegreat:<NEW TOKEN>@github.com/danuts-thegreat/blogfood.git
 ```
 - New content will appear online shortly, once the GitHub pages deploy action have completed (progress can be monitored at https://github.com/danuts-thegreat/blogfood/actions)
 
