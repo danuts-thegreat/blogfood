@@ -1,7 +1,7 @@
 +++
 title = 'Keto Cheesecake Mango'
 date = 2024-08-11T21:11:54+02:00
-draft = true
+draft = false
 Description = "Low carb heaven"
 image = "mangocheesecake.jpg"
 +++
