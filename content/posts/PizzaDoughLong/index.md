@@ -2,44 +2,42 @@
 title = 'Home made pizza dough'
 date = 2024-08-11T21:11:54+02:00
 draft = false
-Description = "Authentic italian dough"
-image = "easy-homemade-pizza-dough-recipe.jpg"
+description = "Authentic italian dough"
+featured_image = "/images/easy-homemade-pizza-dough-recipe.jpg"
 +++
 
 
+### Formula to compute the quantites
+> 240 - 290 gr pizza dough per person (it depends on the desired pizza size)
+>
+> Pizza dough = Flour + Water + Salt
+>
+> Flour = 100%
+>
+> Yeast = .1%
+> Salt = 2%
+> 
+> Water 60%-70% (it depends on the protein % of the flour)
+>
+> {{<figure src="images/fermentation.png" heigh="150" width="150">}}
+> {{<figure src="images/protein.png" heigh="150" width="150">}}
 
-![PizzaDough](easy-homemade-pizza-dough-recipe.jpg "<3!")
-
-
-# Formula to compute the quantites
-240 - 290 gr pizza dough per person (it depends on the desired pizza size)
-
-Pizza dough = Flour + Water + Salt
-
-Flour = 100%
-
-Yeast = .1%
-
-Salt = 2%
-
-Water 60%-70% (it depends on the protein % of the flour)
-
-## Ingredients for 6 pizza dough (260 gr/pizza ball, 70% hydrataion, % protein)
-Poolish
+### Ingredients for 6 pizza dough (260 gr/pizza ball, 70% hydrataion, % protein)
+**Poolish**
 - 300 ml water
 - 300 gr flour
 - 5 gr dry yeast / 10 gr fesh yeast
 - 5 gr honey
 
 
-Pizza
+**Pizza**
 - 700 ml water
 - 1250 gr flour
 - 40gr salt
 - 1 tsp olive oil
 
 
-## Instructions
+### Instructions
 Poolish
 - Mix all ingredients and let it rest for 1h at room temparature
 - Add to fridge for 16-24h 
@@ -59,5 +57,5 @@ Pizza
 
 ##### You are now ready to prepare your pizza
 
-## Nutrition
+### Nutrition
 N/A

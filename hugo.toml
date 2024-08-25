@@ -3,7 +3,7 @@ baseURL = 'https://danuts-thegreat.github.io/blogfood/'
 DefaultContentLanguage = "en"
 languageCode = "en-us"
 title = "BlogFood"
-theme = "lightbi-hugo"
+theme = "ananke"
 metaDataFormat = "yaml"
 pygmentsStyle = "trac"
 #pygmentsUseClasses = true
@@ -50,11 +50,11 @@ previewCardImagePlacement = "bottom"
   priority = 0.5
   filename = "sitemap.xml"
 
-[Params.Author]
-  name = "Danuts"
-  website = "https://danuts-thegreat.github.io/blogfood/"
-  authorInfo = "I'm a happy going spirit from Cloud Cuckoo Land!"
-  authorPostImage = "/img/unikitty.png"
+#[Params.Author]
+#  name = "Danuts"
+#  website = "https://danuts-thegreat.github.io/blogfood/"
+#  authorInfo = "I'm a happy going spirit from Cloud Cuckoo Land!"
+#  authorPostImage = "/img/unikitty.png"
 
 [menu]
 [[menu.main]]
