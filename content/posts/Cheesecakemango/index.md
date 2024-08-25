@@ -3,14 +3,14 @@ title = 'Keto Cheesecake Mango'
 date = 2024-08-11T21:11:54+02:00
 draft = false
 Description = "Low carb heaven"
-image = "mangocheesecake.jpg"
+image = "images/mangocheesecake.jpg"
 +++
 
 
+> {{<figurehugo src="images/mangocheesecake.jpg" heigh="500" width="500">}}
 
-![Cheesecake](mangocheesecake.jpg "<3!")
 
-## Ingredients
+### Ingredients
 Layer 1
 - 300g alune de padure prajite in cuptor (10min la 180 gr) cu unt sarat
 
@@ -29,7 +29,8 @@ Layer 3
 - 3/4 cup mango puree 
 - 1g agar-agar
 
-## Instructions
+---
+### Instructions
 Layer 1
 - Alunele se dau prin robot si se amesteca cu 100 gr miere si 80ml rum.
 
@@ -49,7 +50,8 @@ Se poate servi cu coulis de fructe rosi
 
 
 
-##### Observatie: ii lipseste un pic de peps (poate tb adaugat un pic de citrus)
-#
+> Observatie: ii lipseste un pic de peps (poate tb adaugat un pic de citrus)
+
+---
 ## Nutrition
 N/A
