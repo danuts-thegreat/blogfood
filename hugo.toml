@@ -71,3 +71,11 @@ previewCardImagePlacement = "bottom"
     name = "About"
     url = "/about/"
     weight = 3
+
+# Allow support of markdown attributes (https://gohugo.io/content-management/markdown-attributes/)
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.parser]
+      [markup.goldmark.parser.attribute]
+        block = true
+        title = true

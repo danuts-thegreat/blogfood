@@ -50,10 +50,24 @@ And here is the effeil tower:
 
 
 Again with a caption bundle:
-{{<  figure src="effeil.jpg" title="The effeil tower" >}}
+{{<figure src="images/effeil.jpg" title="The effeil tower" >}}
 
-# Color shortcode examples
+**Color shortcode examples**
 - this is some {{<color green>}}green text, markdown **is not rendered**, <b>only html</b>{{</color>}}
 - we can also use color hex code, {{<color `#00FFFF`>}}like this{{</color>}}
 - more information on shortcode here: https://gohugo.io/content-management/shortcodes/
 - and here for creating custom ones: https://gohugo.io/templates/shortcode/
+
+**Markdown attributes examples**
+
+This is a standard markdown paragraph using Hugo markdown attributes to customize its style
+{style="color:green"}
+This can also work with CSS class (hover me!)
+{class="post-title"}
+Also with shorthand notation (hover me!)
+{.post-title}
+
+> And blockquotes !
+{style="color:#d80b91"}
+
+More info: https://gohugo.io/content-management/markdown-attributes/
