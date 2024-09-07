@@ -51,3 +51,9 @@ And here is the effeil tower:
 
 Again with a caption bundle:
 {{<  figure src="effeil.jpg" title="The effeil tower" >}}
+
+# Color shortcode examples
+- this is some {{<color green>}}green text, markdown **is not rendered**, <b>only html</b>{{</color>}}
+- we can also use color hex code, {{<color `#00FFFF`>}}like this{{</color>}}
+- more information on shortcode here: https://gohugo.io/content-management/shortcodes/
+- and here for creating custom ones: https://gohugo.io/templates/shortcode/
