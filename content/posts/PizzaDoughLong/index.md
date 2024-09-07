@@ -10,7 +10,7 @@ image = "images/easy-homemade-pizza-dough-recipe.jpg"
 > {{<figurehugo src="images/easy-homemade-pizza-dough-recipe.jpg" heigh="300" width="300">}}
 
 #### Formula to compute the quantites
-{{< columns >}}
+{{<columns>}}
 _Suggestion_
 _Pizza dough weight = 240 - 290 gr pizza dough per person (it depends on the desired pizza size)_
 >
@@ -28,10 +28,10 @@ _Pizza dough weight = 240 - 290 gr pizza dough per person (it depends on the des
 > Salt = 2% x PizzaDoughWeight
 >
 > Water = it depends on the index protein of the flour
-{{< column >}}
+{{<column>}}
 > {{<figurehugo src="images/protein.png" heigh="180" width="180">}}
 > {{<figurehugo src="images/fermentation.png" heigh="180" width="180">}}
-{{< endcolumns >}}
+{{<endcolumns>}}
 
 ---
 #### Ingredients for 6 pizza dough (260 gr/pizza ball, 70% hydratation, 260 - 280W protein)
