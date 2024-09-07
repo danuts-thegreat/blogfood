@@ -11,23 +11,32 @@ image = "images/easy-homemade-pizza-dough-recipe.jpg"
 
 #### Formula to compute the quantites
 {{< columns >}}
-> 240 - 290 gr pizza dough per person (it depends on the desired pizza size)
+_Suggestion_
+_Pizza dough weight = 240 - 290 gr pizza dough per person (it depends on the desired pizza size)_
 >
-> Pizza dough = Flour + Water + Salt
+> Weight x Pizza ball parts = Pizza dough weight
 >
-> Flour = 100%
 >
-> Yeast = .1%
-> Salt = 2%
-> 
-> Water 60%-70% (it depends on the protein % of the flour) 
+> Pizza dough composition = Flour + Water + Salt + Yeast
+>
+> Flour = 100% x PizzaDoughWeight
+>
+> Fresh Yeast = .1%-3% x PizzaDoughWeight
+>
+> Dry Yeast = FreshYest / 2-3
+>
+> Salt = 2% x PizzaDoughWeight
+>
+> Water = it depends on the index protein of the flour
 {{< column >}}
-> {{<figurehugo src="images/fermentation.png" heigh="150" width="150">}}
-> {{<figurehugo src="images/protein.png" heigh="150" width="150">}}
+> {{<figurehugo src="images/protein.png" heigh="180" width="180">}}
+> {{<figurehugo src="images/fermentation.png" heigh="180" width="180">}}
 {{< endcolumns >}}
 
 ---
-#### Ingredients for 6 pizza dough (260 gr/pizza ball, 70% hydrataion, % protein)
+#### Ingredients for 6 pizza dough (260 gr/pizza ball, 70% hydratation, 260 - 280W protein)
+**Flour used**
+> {{<figurehugo src="images/farine-caputo-pizzeria.jpg" heigh="180" width="180">}}
 **Poolish**
 - 300 ml water
 - 300 gr flour
@@ -64,3 +73,4 @@ Pizza
 
 ### Nutrition
 N/A
+
