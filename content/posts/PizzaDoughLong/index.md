@@ -53,21 +53,28 @@ _Pizza dough weight = 240 - 290 gr pizza dough per person (it depends on the des
 ---
 #### Instructions
 Poolish
-- Mix all ingredients and let it rest for 1h at room temparature
+- Mix all poolish ingredients and let it rest for 1h at room temparature
 - Add to fridge for 16-24h 
 
 Pizza
-- Retrieve poolish from frigge and add water to it. Mix well
+- Retrieve poolish from frigge and add the remaining water to it. Mix well
 - Add salt, mix
 - Add flour (all quantity) and mix with your hands for couple of minutes
 - Add 1 teaspoon of olive oil and mix 10 minutes. The dough will be sticky. It's normal. You are on the right path. 
 - Let dough rest for 15-20 min
 - Put your hands under the dough and raise it from the counter, and put it back right after. Repeat for couple of times. It will make the dough less sticky
-- Put some olive oil in a bowl, just enough to lubrificate the walls, and add the dough. Close the lid weel and let it rest 
+- Put some olive oil in a bowl, just enough to lubrificate the walls, and add the dough. Close the lid weel and let it rest
+
+**Long version**
 - Add the bowl in the fridge for 16-24h
 - Take it out of fridge and let it rest 20min at room temperature
 - After 20 min, make the pizza balls and let them rest for 2h at room temparature
 
+**Short version**
+- Let it rest for 2h at R.T
+- Add flour in the baking tray or any other recipient
+- Cut the dough in balls (260gr each ball) and put them in the tray, some distance apart. 
+- Cover everyting with a transparent foil and let it rest for 1h
 
 > You are now ready to prepare your pizza
 
